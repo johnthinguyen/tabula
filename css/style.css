@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.btn1 {
+  border-radius: 50px;
+  padding: 10px 15px;
+  background-color: #b61984;
+  border: #b61984;
+  color: white;
+  font-weight: 500;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+header .icon {
+  color: black;
+  margin: 5px;
+}
+
+
+
+/*# sourceMappingURL=style.css.map */
